@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\libsvm (2).jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2013c6a0ecc8a450e15833715ecf34023fee4a56">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\2\libsvm (2)_3314d2cdb9d96c426f8d1893604278f9abf4f152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\.android\build-cache\03c4433e4afc8372ffa3241c96dddd30ce298b4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0326d8c15b148b0e7d12f341dd5696685e0c181c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\libsvm (2).jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2013c6a0ecc8a450e15833715ecf34023fee4a56">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\pre-dexed\debug\libsvm (2)_3314d2cdb9d96c426f8d1893604278f9abf4f152.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\.android\build-cache\a865db1c9c42c05e5dd3f5b51bceb3a06c42d3ea\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_b29e265eebfaf2dfcf6edf42544c4e60e5997cfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\LibSVM.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07d95026d8c736214b2855919e3123099588e12c">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\pre-dexed\debug\LibSVM_c4daa202877e59a16c7cbbe3b4fe102dbb965bd9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\.android\build-cache\a865db1c9c42c05e5dd3f5b51bceb3a06c42d3ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f0dd89327ef6b2851b1843f230d434589a878a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cha\.android\build-cache\4b606101be196cfb8b474a9e0165d761dc7553e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\pre-dexed\debug\classes_1bc2a08fec56ff7af4ff30c582779c84ff7ae7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cha\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_99efc90dc592bc4bca90916d4069d240841bc301.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\wekaSTRIPPED.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\2\wekaSTRIPPED_da3ce86665bc5e6af508550009712488eb3abcd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_725691b9c7f41762d21994d91e30a28ff6133874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\LibSVM.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07d95026d8c736214b2855919e3123099588e12c">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\2\LibSVM_c4daa202877e59a16c7cbbe3b4fe102dbb965bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\pre-dexed\debug\microsoft-band-1.3.20307.2_ad7d4464d8318f3f6ae1235c40fd1ed96dce9db1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_007e8affe4a5b9114c508fbc3471bebb2a61c223\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\microsoft-band-1.3.20307.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\2\microsoft-band-1.3.20307.2_ad7d4464d8318f3f6ae1235c40fd1ed96dce9db1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\libs\wekaSTRIPPED.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d553332d3346a8efe1d52000973115cc5ef975d">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\pre-dexed\debug\wekaSTRIPPED_da3ce86665bc5e6af508550009712488eb3abcd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1f8cff3b07c9ed82fb0a277f5d2402557872514">
+        <dex dex="C:\Users\cha\Desktop\IOT2016\Fall detection app 03030303\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_987846649fc233e611c7b8738fc3fd2e64f58dc5\classes.dex" />
+    </item>
+
+</items>
