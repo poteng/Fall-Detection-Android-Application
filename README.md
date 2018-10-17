@@ -22,6 +22,7 @@ Considering phone acceleration on top of the prediction can filter out more ADLs
 
 ## Required devices
 An Android smartphone and a Microsoft Band.
+The minimum Android version was 7.0 at the moment of testing.
 
 ## Tested devices
 This app has been tested on multiple brands of Android smartphones including:
@@ -30,7 +31,6 @@ This app has been tested on multiple brands of Android smartphones including:
 - Sony
 - Huawei
 
-The minimum Android version was 7.0 at the moment of testing.
 
 ## Installation
 See [Documentation](Documentation/FallDetection_Guide_2017.pdf).
